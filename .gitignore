@@ -1,3 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
 .docker_memo_laravel/mysql/data
 .docker_memo_laravel/mysql/log
 .docker_memo_laravel/php/log
